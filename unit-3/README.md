@@ -8,7 +8,7 @@
 - Used PriceList in SUM formulas to show total price, total tax and total final price
 
 ## Files / links
-- [Tax_Calculator.xlsx](https://github.com/maliha-arch/tiudsa-excel/blob/main/unit-3/Tax_Calculator.xlsx)
+- Tax_Calculator.xlsx
 
 ## How to run / verify
 - Open Tax_Calculator.xlsx
