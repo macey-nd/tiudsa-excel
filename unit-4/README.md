@@ -7,7 +7,7 @@
 - Applied customized filter to [Units Sold] data
 
 ## Files / links
-- Sorting_Filtering_Tables.xlsx
+- [Sorting_Filtering_Tables.xlsx](https://github.com/macey-nd/tiudsa-excel/blob/main/unit-4/Sorting_Filtering_Tables.xlsx)
 
 ## How to run / verify
 - Open Sorting_Filtering_Tables.xlsx
