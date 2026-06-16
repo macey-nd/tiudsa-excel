@@ -7,10 +7,10 @@
 •⁠  ⁠Froze the header row and formatted dates as YYYY-MM-DD
 
 ## Files / links
-•⁠  ⁠Student_Enrollment_Sheet.xlsx
+•⁠  [⁠Student_Enrollment_Sheet.xlsx](https://github.com/macey-nd/tiudsa-excel/blob/main/unit-1/Student_Enrollment_Sheet.xlsx)
 
 ## How to run / verify
-•⁠  ⁠Open the .xlsx file in Excel
+•⁠  ⁠Open the Student_Enrollment_Sheet.xlsx file in Excel
 •⁠  ⁠GPA below 2.5 is highlighted in red
 •⁠  ⁠Major column has dropdown validation
 •⁠  ⁠Row 1 is frozen
